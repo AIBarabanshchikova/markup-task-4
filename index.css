@@ -27,7 +27,7 @@
 
 .menu-button:checked ~ .content .cat
 {
-    height: min-content;
+    height: auto;
     width: 500px;
 }
 
